@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# Modal component
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This component consists of two main parts: Backdrop (just an overlay that sits across the entire screen and makes everything else look dark) and Modal (which sits on top of Backdrop and this is where the user's attention will be focused).
+
+# Available animations
+
+More animations can be found in the src/animations.js directory. Just import them into the Modal component and use as you desire.
 
 ## Available Scripts
 
