@@ -6,6 +6,11 @@ This component consists of two main parts: Backdrop (just an overlay that sits a
 
 More animations can be found in the src/animations.js directory. Just import them into the Modal component and use as you desire.
 
+- flip
+- newspaper
+- dropIn
+- badSuspension
+
 ## Available Scripts
 
 In the project directory, you can run:
